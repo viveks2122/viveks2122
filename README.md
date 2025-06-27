@@ -35,6 +35,6 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: vivek@example.com  
+- 📧 Email: viveks2122s@example.com  
 - 💼 [LinkedIn](https://linkedin.com/in/viveksir) _(replace with real link)_
 
